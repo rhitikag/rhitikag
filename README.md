@@ -19,13 +19,12 @@
 ```javascript
 const rhitika = {
   pronouns: "she" | "her",
-  code: [Dart, JavaScript, Python, C, Bash, Kotlin],
-  tools: [Flutter, React Native, Node.js, Express.js, FastAPI, Docker, Redis, PostgreSQL, Git],
-  infra: ["AWS", "Nginx", "CI/CD"],
+  code: [Python, C, Bash, C++],
+  tools: [Linux, Git, Networking],
   projects: [
-    "Smart India Hackathon App Frontend",
-    "Software Engineering Simulation (Forage)",
-    "Ride-Hailing Platform Prototype"
+    "sensor interfacing",
+    "Home Automation Prototype",
+    "Python Scripting automation"
   ],
   certifications: [
     "Python Basics (University of Michigan)",
