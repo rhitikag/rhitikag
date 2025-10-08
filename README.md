@@ -35,6 +35,4 @@ const rhitika = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love building delightful user experiences and connecting with fellow developers.</b> If you'd like to say <b>hi</b>, I'd be happy to connect!</em>
-
 ---
