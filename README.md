@@ -22,16 +22,16 @@ const rhitika = {
   code: [Python, C, Bash, C++],
   tools: [Linux, Git, Networking],
   projects: [
-    "sensor interfacing",
-    "Home Automation Prototype",
+    "stock Market Prediction, Plant Disease Detection",
+    "Tensor Flow, Seaborn, Matplotlib, Excel, C, Python",
     "Python Scripting automation"
   ],
   certifications: [
     "Python Basics (University of Michigan)",
     "C for Everyone (UC Santa Cruz)",
-    "IoT (NPTEL)"
+    "AI Fundamentsals (NPTEL)"
   ],
-  challenge: "Always learning—currently exploring open source, infrastructure, and scalable backends!"
+  challenge: "Always learning—currently exploring open source, networking, AI/ML, Depp learning"
 }
 ```
 
