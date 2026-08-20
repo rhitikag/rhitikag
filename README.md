@@ -2,13 +2,17 @@
 
 <p>
   <em>
-    Computer Science Graduate · Software Engineering Enthusiast · Linux User
+    Software Engineer in the making · Computer Science Graduate
   </em>
 </p>
 
 <p>
-  B.Tech Computer Science<br>
-  <a href="https://jiscollege.ac.in/">JIS College of Engineering</a>
+  <strong>Predoctoral Research Fellow @ IIT Guwahati</strong><br>
+  Working on <strong>ML-driven Electronic Design Automation (EDA) and performance optimization</strong>
+</p>
+
+<p>
+  B.Tech Computer Science · JIS College of Engineering
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rhitikag-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/rhitikag/)
@@ -18,20 +22,17 @@
 
 ### 👋 About Me
 
-I'm a Computer Science graduate currently building my foundation in **Software Engineering**.
+Currently building my foundation in **Software Engineering**, focusing on:
 
-I'm working through **JavaScript → TypeScript → Web & Backend Development**, while continuing to explore **Linux, systems, and open source**.
+**JavaScript → TypeScript → Web → Backend**
+
+Interested in **Linux, systems, backend engineering, open source, and applied machine learning**.
 
 ```javascript
 const rhitika = {
-  learning: ["JavaScript", "TypeScript", "Software Engineering"],
-  interests: ["Linux", "Backend", "Systems", "Open Source"],
+  currentlyLearning: ["JavaScript", "TypeScript"],
+  research: "ML-driven EDA & performance optimization",
+  interests: ["Software Engineering", "Linux", "Systems", "Open Source"],
   motto: "Learn by building."
 };
 ```
-
----
-
-<p align="center">
-  <i>Currently learning. Currently building. More to come.</i>
-</p>
